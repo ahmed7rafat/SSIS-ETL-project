@@ -1,4 +1,4 @@
-# SSIS-ETL-project
+# Customer Segmentation ETL Pipeline – SSIS Project 
 
 **Description:**
 Beginner-level SSIS ETL project that processes customer data from CSV into SQL Server.
